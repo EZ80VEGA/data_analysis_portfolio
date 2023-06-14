@@ -13,6 +13,7 @@ Thanks for checking it out!
 
 ## Contents
 
+
 ## Projects
 In order to exemplify what I have learned here I try to apply those newly learned skills.
 
