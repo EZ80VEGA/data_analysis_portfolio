@@ -16,3 +16,5 @@ Thanks for checking it out!
 ## Projects
 
 ## Certificates
+
+[MySQLCertificate.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/files/11741451/MySQLCertificate.pdf)
