@@ -17,5 +17,6 @@ Thanks for checking it out!
 
 ## Certificates
 
-Tthe Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
+The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
+
 ![MySQLCertificate1](https://github.com/EZ80VEGA/data_analysis_portfolio/assets/132575908/63faa483-4377-4399-8fc0-f2753ce9f383)
