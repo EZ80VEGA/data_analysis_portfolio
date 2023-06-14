@@ -10,3 +10,5 @@ Here you will find my begginer portfolio which I will update as I go.
 Thanks for checking it out!
 
 -Ezequiel 
+
+## Contents
