@@ -12,7 +12,7 @@ Thanks for checking it out!
 -Ezequiel 
 
 ## Contents
-
+-[About](about)
 
 ## Projects
 In order to exemplify what I have learned here I try to apply those newly learned skills.
