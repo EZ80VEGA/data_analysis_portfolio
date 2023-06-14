@@ -14,6 +14,7 @@ Thanks for checking it out!
 ## Contents
 
 ## Projects
+In order to exemplify what I have learned here I try to apply those newly learned skills.
 
 ## Certificates
 To reinforce that I have taken the time to further my learning here are my achievements.
