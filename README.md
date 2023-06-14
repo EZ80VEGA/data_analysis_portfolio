@@ -12,3 +12,7 @@ Thanks for checking it out!
 -Ezequiel 
 
 ## Contents
+
+## Projects
+
+## Certificates
