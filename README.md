@@ -13,6 +13,10 @@ Thanks for checking it out!
 
 ## Contents
 - [About](#about)
+- [Contents](#contents)
+- [Projects](#projects)
+- [Certificates](#certificates)
+- [Contact](#contact)
 
 ## Projects
 In order to exemplify what I have learned here I try to apply those newly learned skills.
