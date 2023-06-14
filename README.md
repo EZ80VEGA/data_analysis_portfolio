@@ -21,3 +21,4 @@ Thanks for checking it out!
 [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://github.com/EZ80VEGA/data_analysis_portfolio/files/11741473/MySQLCertificate1.pdf) (May 2023)(Udemy)
 
 ## Contact
+Email: ezequiel80vega@gmail.com
