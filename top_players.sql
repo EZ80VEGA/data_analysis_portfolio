@@ -33,11 +33,11 @@ ALTER TABLE player_info
     ADD Height_feet DECIMAL(10,2);
 
     
-#Filling up our new height column with a simple multiplication equation
+#Filling up our new height column with a simple multiplication equation that helps convert height from meters into feet
 UPDATE player_info 
  SET Height_feet = Height * 3.28084;
 
-#This gives me the names of the players and their respective height from shortes to tallest including only that data filled in 
+#This gives me the names of the players and their respective height from shortest to tallest - Note those players without any height data are not included as they would not give us the correct result 
 SELECT Name, Position, League, Height, Height_feet FROM player_info
  WHERE Height IS NOT NULL
  ORDER BY Height
@@ -49,7 +49,7 @@ SELECT Name, League, Position, Height, Height_feet FROM player_info
  ORDER BY Height
  LIMIT 10;
 
-#This gives me the positions that the top 5 shortest players play for
+#This gives me the positions that the Top 5 shortest players play
 SELECT Name, Position, Height_feet FROM player_info
  WHERE Height IS NOT NULL
  ORDER BY Height
