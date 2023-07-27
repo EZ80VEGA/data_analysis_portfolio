@@ -33,8 +33,8 @@ This was the main project for 'The Ultimate MySQL Bootcamp' where we try and rep
 ## Certificates
 To reinforce that I have taken the time to further my learning. Here are my achievements.
 
-[Microsoft Excel Data Analysis and Dashboard Reporting]() (June 2023)(Udemy)
-[The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert]() (May 2023)(Udemy)
+[Microsoft Excel Data Analysis and Dashboard Reporting](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/ExcelDataAnalysisCertificate.jpg) (June 2023)(Udemy)
+[The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/MySQLCertificate.jpg) (May 2023)(Udemy)
 
 ## Contact
 Email: ezequiel80vega@gmail.com
