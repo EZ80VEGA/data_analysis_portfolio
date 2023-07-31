@@ -18,15 +18,26 @@ Thanks for checking it out!
 - [Certificates](#certificates)
 - [Contact](#contact)
 
-## Portfolio Projects
+## Projects
 In order to exemplify what I have learned, I try to apply those newly learned skills.
 ## Excel
 
 ### Personal Budget Book
 
+**Issue:** I am aware I am over spending my income. What can I do monitor my spending.
+
+**Solution:** Create a budget book where I can input my spending data each month and break it down into categories.
+
 **File:** [Budget Book.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Budgetbook_2023_Data1.xlsm)
 
 ### Customer Orders Dashboard
+
+**Issue:** Our company's sales department want to know how frequently each of our customers buy from us. They need to improve their numbers and want to find out if they can reach out to those who less frequently order from us. 
+
+**Solution:** Build a customer orders dashboard where we can view each individual customers previous orders and can be shared among each of the teams members without any issue.
+
+**Topics:**
+
 
 **File:** [CustomerOrders-Reworked.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
 
