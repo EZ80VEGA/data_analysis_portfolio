@@ -21,8 +21,14 @@ Thanks for checking it out!
 ## Portfolio Projects
 In order to exemplify what I have learned, I try to apply those newly learned skills.
 ## Excel
-**File:** [Budget Book.xlsm]()
-**File:** [CustomerOrders-Reworked.xlsm]()
+
+### Personal Budget Book
+
+**File:** [Budget Book.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Budgetbook_2023_Data.xlsm)
+
+### Customer Orders Dashboard
+
+**File:** [CustomerOrders-Reworked.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
 
 ## Power BI
 
