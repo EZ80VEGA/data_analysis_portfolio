@@ -19,8 +19,14 @@ Thanks for checking it out!
 - [Contact](#contact)
 
 ## Portfolio Projects
-In order to exemplify what I have learned here I try to apply those newly learned skills.
+In order to exemplify what I have learned, I try to apply those newly learned skills.
+## Excel
+**File:** [Budget Book.xlsm]()
+**File:** [CustomerOrders-Reworked.xlsm]()
 
+## Power BI
+
+## SQL
 ### Instagram Clone Challenge
 
 This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
