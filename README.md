@@ -28,6 +28,11 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 **Solution:** Create a budget book where I can input my spending data each month and break it down into categories.
 
+**Topics:**
+- Custom Data Entry Form
+- Chart
+- VBA
+
 **File:** [Budget Book.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Budgetbook_2023_Data1.xlsm)
 
 ### Customer Orders Dashboard
@@ -37,6 +42,11 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 **Solution:** Build a customer orders dashboard where we can view each individual customers previous orders and can be shared among each of the teams members without any issue.
 
 **Topics:**
+- VBA
+- Index Function
+- Vlookup Function
+- Pivot Table
+- Pivot Chart
 
 
 **File:** [CustomerOrders-Reworked.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
