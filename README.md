@@ -53,6 +53,15 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 ## Power BI
 
+## Python
+### Automated Financial Transaction Import
+**Topics:**
+- Import CSV files into single Excel Workbook 
+- Dataframes
+- Data Cleaning
+
+**File:** [Finances Excel Update - Shared .ipynb](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Finances Excel Update - Shared .ipynb)
+
 ## SQL
 ### Instagram Clone Challenge
 
