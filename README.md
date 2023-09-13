@@ -60,7 +60,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 - Dataframes
 - Data Cleaning
 
-**File:** [Finances Excel Update - Shared .ipynb](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Finances Excel Update - Shared .ipynb)
+**File:** [Finances Excel Update - Shared .ipynb](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/FinancesExcelUpdate-Shared.ipynb)
 
 ## SQL
 ### Instagram Clone Challenge
