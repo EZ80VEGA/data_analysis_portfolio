@@ -55,21 +55,35 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 ## Python
 ### Automated Financial Transaction Import
+
+**Issue:** I want to automate the process to input data into my finacial dashboard using transaction reports from my banks. 
+
+**Solution:** Use python to create a clean process where the raw data from my trnsaction reports are all imported into a single data sheet within my excel budget book. 
+
 **Topics:**
-- Import CSV files into single Excel Workbook 
-- Dataframes
+- Import CSV files into single Excel Workbook sheet 
+- Pandas Dataframes
 - Data Cleaning
+
 
 **File:** [Finances Excel Update - Shared .ipynb](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/FinancesExcelUpdate-Shared.ipynb)
 
 ## SQL
 ### Instagram Clone Challenge
 
-This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
+**Description:**This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
+
+**Topics:**
+- Multiple Table Joins
+
 
 **Code:** [ig_challenges.sql](https://github.com/EZ80VEGA/EZ80VEGA/blob/412ea5894fc937fef53b414e7a6792d1419cc9ef/ig_challenges%20.sql)
 
 ### Top 5 Soccer Leagues
+**Description:**As a fan of soccer or football in the UK I came up with some interesting points I could learn from this dataset.
+
+**Topics:**
+- 
 
 **Code:** [top_players.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/top_players.sql)
 ## Certificates
