@@ -83,7 +83,6 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 **Description:**As a fan of soccer or football in the UK I came up with some interesting points I could learn from this dataset.
 
 **Topics:**
-- 
 
 **Code:** [top_players.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/top_players.sql)
 ## Certificates
