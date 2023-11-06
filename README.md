@@ -28,7 +28,25 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 **Solution:** I decided to learn the basics of CSS & HTML to build my custom website from scratch with the intent to showcasse my new skill and the rest of my technical skills through my portfolio.
 
-**File:** 
+**Topics:**
+- HREF Links
+- Buttons
+- Keyframes
+- NavBar
+- Form
+
+
+**Files:** 
+
+[Style Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/style.css) 
+
+[Index Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/index.html)
+
+[Portfolio Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/portfolio.html)
+
+[Contact Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/contact.html)
+
+[Java Script](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/script.js)
 
 ## Excel
 
