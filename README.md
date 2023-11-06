@@ -20,6 +20,16 @@ Thanks for checking it out!
 
 ## Projects
 In order to exemplify what I have learned, I try to apply those newly learned skills.
+## CSS & HTML
+
+### Personal Website
+
+**Issue:** I already owned a domain but never put it to use. I tried using WordPress to build my website but I could not find any website templates I liked.
+
+**Solution:** I decided to learn the basics of CSS & HTML to build my custom website from scratch with the intent to showcasse my new skill and the rest of my technical skills through my portfolio.
+
+**File:** 
+
 ## Excel
 
 ### Personal Budget Book
@@ -35,7 +45,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 **File:** [Budget Book.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Budgetbook_2023_Data1.xlsm)
 
-### Customer Orders Dashboard
+### Customer Data Order Dashboard
 
 **Issue:** Our company's sales department want to know how frequently each of our customers buy from us. They need to improve their numbers and want to find out if they can reach out to those who less frequently order from us. 
 
@@ -50,11 +60,10 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 
 **File:** [CustomerOrders-Reworked.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
-
 ## Power BI
 
 ## Python
-### Automated Financial Transaction Import
+### Automated Personal Financial Transactiond Import
 
 **Issue:** I want to automate the process to input data into my finacial dashboard using transaction reports from my banks. 
 
@@ -65,11 +74,19 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 - Pandas Dataframes
 - Data Cleaning
 
-
 **File:** [Finances Excel Update - Shared .ipynb](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/FinancesExcelUpdate-Shared.ipynb)
 
+### Downloads Folder File Organizer
+
+**Issue:** My PC's Downloads folder is full of different files and it's a mess to look at before deciding to keep or delete them.
+
+**Solution:** Utilized Python to create sub-Downloads folders based on the file type: pdf, xlsm, png, etc. This keeps my downloaded files organized and easy to locate.
+
+**File:**
+
+
 ## SQL
-### Instagram Clone Challenge
+### Instagram Clone
 
 **Description:**This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
 
