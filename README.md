@@ -111,8 +111,23 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 **Topics:**
 - Multiple Table Joins
 
+**Code:** [Instagram Clone Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Instagram%20Clone%20Query.sql)
 
-**Code:** [ig_challenges.sql](https://github.com/EZ80VEGA/EZ80VEGA/blob/412ea5894fc937fef53b414e7a6792d1419cc9ef/ig_challenges%20.sql)
+### Laguna Seca Lap Time Records 
+
+**Issue:**
+
+**Solution:**
+
+**File:** [Laguna Seca Lap Time Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Laguna%20Seca%20Lap%20Time%20Query.sql)
+
+### Football 24 Player Stats
+
+**Issue:**
+
+**Solution:**
+
+**File:** [Football 24 Player Stats Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Football%2024%20Player%20Stats%20Query.sql)
 
 
 ## Certificates
