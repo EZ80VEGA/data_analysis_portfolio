@@ -106,26 +106,19 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 ## SQL
 ### Instagram Clone
 
-**Description:**This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
-
-**Topics:**
-- Multiple Table Joins
+**Description:** This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
 
 **Code:** [Instagram Clone Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Instagram%20Clone%20Query.sql)
 
 ### Laguna Seca Lap Time Records 
 
-**Issue:**
-
-**Solution:**
+**Description:** Having this iconic racetrack close to home interested me in trying to find out what type of vehicles set records throughout the years. 
 
 **File:** [Laguna Seca Lap Time Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Laguna%20Seca%20Lap%20Time%20Query.sql)
 
 ### Football 24 Player Stats
 
-**Issue:**
-
-**Solution:**
+**Description:** Growing up with the FIFA franchise and then hearing about the change in the name interested me in finding out how some of the yet standing older players stand next to the next generation of football players. 
 
 **File:** [Football 24 Player Stats Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Football%2024%20Player%20Stats%20Query.sql)
 
