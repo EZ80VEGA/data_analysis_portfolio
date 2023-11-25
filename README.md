@@ -81,7 +81,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 ## Power BI
 
 ## Python
-### Automated Personal Financial Transactiond Import
+### Automated Personal Financial Transactions Import
 
 **Issue:** I want to automate the process to input data into my finacial dashboard using transaction reports from my banks. 
 
