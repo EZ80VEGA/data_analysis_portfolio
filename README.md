@@ -114,12 +114,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 **Code:** [ig_challenges.sql](https://github.com/EZ80VEGA/EZ80VEGA/blob/412ea5894fc937fef53b414e7a6792d1419cc9ef/ig_challenges%20.sql)
 
-### Top 5 Soccer Leagues
-**Description:**As a fan of soccer or football in the UK I came up with some interesting points I could learn from this dataset.
 
-**Topics:**
-
-**Code:** [top_players.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/top_players.sql)
 ## Certificates
 To reinforce that I have taken the time to further my learning. Here are my achievements.
 
