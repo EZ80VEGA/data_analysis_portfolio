@@ -1,0 +1,429 @@
+/* Colors used: 
+Dark Gray: #4d4d4d
+Light Gray: #bebebe
+Extra Light Gray: #dadada
+Dark Green: #306844
+Light Green: #7e9e85
+*/
+
+.title {
+	font-weight: bold;
+	font-size: 30px;
+
+}
+
+*{
+	margin: 0px;
+	box-sizing: border-box;
+	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+}
+
+body {
+	background-image: url("black_space.jpg");
+	background-size: cover;
+    background-position: center;
+	
+}
+
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    margin-bottom: 100px; 	/* Add margin to push content below the header */
+}
+
+
+.section{
+	padding: 2em;
+}
+
+.logo {
+	font-size: 25px;
+	color: #dadada; /* font color*/
+	text-decoration: none;
+	font-weight: 600;
+	cursor: default;
+	opacity: 0;
+	animation: slideRight 1s ease forwards;
+}
+
+.navbar a {
+	display: inline-block;
+	font-size: 22px;
+	color: #dadada; /* the navbar static color: dark gray*/
+	text-decoration: none;
+	font-weight: 750;
+	margin-left: 35px;
+	transition: .3s;
+	opacity: 0;
+	animation: slideTop .5s ease forwards;
+	animation-delay: calc(.2s * var(--i)); 
+}
+
+.navbar a.active {
+	color: #7e9e85; 
+}
+
+.navbar a:hover{
+	color: #7e9e85; 
+}
+
+/* This is for the Home Page*/
+.home{
+	position: relative;
+	width: 100%;
+	height: 75vh;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 70px 10% 0;
+	
+}
+
+.home-content {
+	max-width: 600px;
+}
+
+.home-content h3 {
+	font-size: 32px;
+	font-weight: 700;
+	color: #dadada;
+	opacity: 0;
+	animation: slideBottom 1s ease forwards;
+	animation-delay: .7s;
+}
+
+.home-content h3 nth-of-type(2){
+	margin-bottom: 30px;
+	animation: slideTop 1s ease forwards;
+	animation-delay: .7s;
+	color: #dadada;
+	
+}
+
+.home-content h3 span {
+	color: #dadada;
+	font-size: 35px;
+	font-weight: 900;
+	
+}
+
+.home-content h1 {
+	font-size: 56px;
+	font-weight: 700;
+	color: #7e9e85;
+	margin: -3px 0;
+	opacity: 0;
+	animation: slideRight 1s ease forwards;
+	animation-delay: 1s;
+}
+
+.home-content p {
+	font-size: 18px;
+	color: #dadada;
+	opacity: 0;
+	animation: slideLeft 1s ease forwards;
+	animation-delay: 1s;
+	
+}
+
+.skills, .certificates {
+	margin-top: 20px;
+}
+.skills-list, .certificates-list {
+	color: #dadada;
+	margin-left: -20px;
+}
+
+.certificates-link {
+	color: #dadada;
+	text-decoration: underline;
+}
+
+
+.home-img img{
+	max-width: 400px;
+	max-height: 450px;
+	margin-right; -50
+	opacity: 0;
+	animation: zoomIn 1s ease forwards;
+
+}
+
+/* This is for the Portfolio Page*/ 
+
+/*this controls the whole portfolio section*/
+.portfolio {
+    position: relative;
+    width: 100%;
+    /* height: 50vh; Remove or adjust the height to allow content to flow naturally */
+    display: flex;
+	flex-direction: column;
+    align-items: center;
+    color: #dadada;
+	padding-top: 20px;
+}
+
+.portfolio-content {
+    color: #7e9e85;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 3em;/* Increase the padding to create more space */
+    margin-bottom: 2em;
+	width: 65%;
+	height: 60%
+}
+
+/*
+.project-content {
+    color: #7e9e85;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 3em; /* Increase the padding to create more space */
+/*    margin-bottom: 2em;
+	width: 65%;
+	height: 60%
+} */
+
+.portfolio-content h2{
+	font-size: 30px;
+}
+.portfolio-content h3{
+	font-size: 20px;
+}
+.portfolio-content p{
+	font-size: 18px;
+}
+
+.portfolio-content-link {
+	color: #4d4d4d;
+	text-decoration: underline;
+}
+
+.portfolio img {
+    max-width: 70%;
+    height: auto;
+    border-radius: 4px;
+	align-items: center;
+}
+
+.project-description {
+	padding-top: 20px;
+}
+
+.skill-type {
+	color: #dadada;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 120px;
+	font-size: 30px; 
+}
+
+/* This is for the Contact Page*/                             
+.contact{
+	position: relative;
+	width: 100%;
+	height: 25vh;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 70px 10% 0;
+	
+}
+
+Form{
+	margin: 45px; /*this vertically pushes down the input fields in the contact content box*/
+}	
+.contact-content {
+	max-width: 700px;
+}
+
+.contact-box{
+	color: #dadada;
+	width: 500px;
+	/*background: transparent;*/  
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: relative;
+	top: 60px;
+	height: 40vh;
+	border: 2px solid #dadada;
+	border-radius: 5px;
+	text-align: center;
+	
+}
+
+.input-field{
+	width: 400px;
+	height: 100; 
+	margin-top: 20px;
+	padding-left: 10px;
+	border: 2px solid #4d4d4d;
+	border-radius: 5px;
+	outline: none;
+	font-size: 14px;
+	
+	
+}
+
+.contact-btn{
+	color: #4d4d4d;
+	margin-top: 25px;
+	padding: 10px;
+	font-color: #4d4d4d;
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+	border: 2px solid #4d4d4d;
+	border-radius: 40px;
+	
+}
+
+.contact-btn:hover{
+	background: #7e9e85;
+	color: #fff;
+}
+
+.social-media a {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center; 
+	width: 40px;
+	height: 40px;
+	background: transparent;
+	border: 2px solid #7e9e85; /*This is for the icon border - dark green */
+	border-radius: 50%;
+	font-size: 20px;
+	color: #7e9e85; 
+	text-decoration: none;
+	margin: 30px 15px 30px 0;
+	transition: .5s ease;
+	opacity: 0;
+	animation: slideLeft 1s ease forwards;
+	animation-delay: 1s;
+	opacity: 0;
+	animation: slideLeft 1s ease forwards;
+	animation-delay: calc(.2s * var(--i));
+}
+
+.social-media a:hover{
+	background: #7e9e85; /*this is for the background color when you hover over  */
+	color: #fff; /* this is the icon color when you hoover over it*/
+	
+	
+}
+
+.btn {
+	display: inline-block;
+	padding: 12px 28px;
+	background: transparent;
+	border-radius: 40px;
+	border: 2px solid #7e9e85;
+	font-size: 16px;
+	color: #7e9e85;
+	letter-spacing: 1px;
+	text-decoration: none; 
+	font-weight: 650;
+	opacity: 0;
+	animation: slideTop 1s ease forwards;
+	animation-delay: 2s;
+}
+
+.btn:hover{
+	background: #7e9e85; /*this is the background coloer for the 'donwload cv button*/
+	color: #fff;
+
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: auto;
+	color: #7e9e85;
+
+}
+
+/* KEYFRAMES ANIMATION */
+@keyframes slideTop {
+	0% {
+		transform: translateX(-100px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+
+@keyframes slideRight {
+	0% {
+		transform: translateX(100px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+@keyframes slideLeft {
+	0% {
+		transform: translateX(100px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+@keyframes slideBottom {
+	0% {
+		transform: translateY(-100px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes slideTop {
+	0% {
+		transform: translateY(100px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes zoomIn {
+	0% {
+		transform: scale(0);
+		opacity: 0;
+	}
+	100% {
+		transform: scale(1);
+		opacity: 1;
+	}
+}
