@@ -20,6 +20,21 @@ Thanks for checking it out!
 
 ## Projects
 In order to exemplify what I have learned, I try to apply those newly learned skills.
+
+## ArcGis
+
+**Files:** 
+
+[Santa Ana Maya - Michoacan Study Area.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20-%20Michoacan%20Study%20Area.pdf)
+
+[Santa Ana Maya Trace Layout wPopulation.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout%20wPopulation.pdf)
+
+[Santa Ana Maya Trace Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout.pdf)
+
+[Michoacan - Mexico Study Area Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Michoacan%20-%20Mexico%20Study%20Area%20Layout.pdf)
+
+[Mexico With States Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Mexico%20With%20States%20Layout.pdf)
+
 ## CSS & HTML
 
 ### Personal Website
@@ -48,18 +63,6 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 [Java Script](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/script.js)
 
-## ArcGis
-
-**Files:** 
-[Santa Ana Maya - Michoacan Study Area.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20-%20Michoacan%20Study%20Area.pdf)
-
-[Santa Ana Maya Trace Layout wPopulation.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout%20wPopulation.pdf)
-
-[Santa Ana Maya Trace Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout.pdf)
-
-[Michoacan - Mexico Study Area Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Michoacan%20-%20Mexico%20Study%20Area%20Layout.pdf)
-
-[Mexico With States Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Mexico%20With%20States%20Layout.pdf)
 
 ## Excel
 
