@@ -48,6 +48,19 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 [Java Script](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/script.js)
 
+## ArcGis
+
+**Files:** 
+[Santa Ana Maya - Michoacan Study Area.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20-%20Michoacan%20Study%20Area.pdf)
+
+[Santa Ana Maya Trace Layout wPopulation.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout%20wPopulation.pdf)
+
+[Santa Ana Maya Trace Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout.pdf)
+
+[Michoacan - Mexico Study Area Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Michoacan%20-%20Mexico%20Study%20Area%20Layout.pdf)
+
+[Mexico With States Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Mexico%20With%20States%20Layout.pdf)
+
 ## Excel
 
 ### Personal Budget Book
@@ -123,8 +136,8 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 **File:** [Football 24 Player Stats Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Football%2024%20Player%20Stats%20Query.sql)
 
 
-## Certificates
-To reinforce that I have taken the time to further my learning. Here are my achievements.
+## Resources
+To reinforce that I have taken the time to further my learning. Here are certificates from the courses I have taken.
 
 [Data Analysis With Python](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Data%20Analysis%20With%20Python%20Certificate.pdf) (October 2023)(freeCodeCamp)
 
