@@ -95,6 +95,27 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 **File:** [CustomerOrders-Reworked.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
 ## Power BI
+### Sales Dashboard
+
+**Issue:** A local company reached out inquiring about the possibility of creating a dashboard that lets them view and compare sales using their last three years of sales data. They wanted this dashboard to be interactive and allowing them to choose the viewing of data based on the year, city, product and channel of sale. 
+
+**Solution:** Create a dashboard which includes the selection of the year, city, product & channel. Based on the selection they will be able to view their sales, profit, profit margin and the number of products they have sold. While being able to see the differences in changes for the type of products they have sold and the month. Knowing which locations their top custmers are located will help them prioritize advertising. It is important as well to know which customers they may be having sales issues with and the channel of the sale between Wholesale, Distribut or or Export. 
+
+**Topics:**
+- Custom Columns
+- Date Table using DAX
+- Table Relationship Management
+- Slicer
+- Independent Measure Table
+- Tool Tip
+
+**Files:** 
+
+[Sales Dashboard](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard.JPG)
+
+[Sales Dashboard Tool Tip](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard%20Tool%20Tip.jpeg)
+
+[Sales Dashboard Table Relationships](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard%20Table%20Relationships.JPG)
 
 ## Python
 ### Automated Personal Financial Transactions Import
