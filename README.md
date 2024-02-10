@@ -111,9 +111,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 **Files:** 
 
-[Sales Dashboard](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard.JPG)
-
-[Sales Dashboard Tool Tip](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard%20Tool%20Tip.jpeg)
+[Sales Dashboard](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard.pdf)
 
 [Sales Dashboard Table Relationships](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard%20Table%20Relationships.JPG)
 
