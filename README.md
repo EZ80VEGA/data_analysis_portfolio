@@ -161,7 +161,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 ## Courses Taken
 To reinforce that I have taken the time to further my learning. Here are certificates from the courses I have taken.
 
-[ArcGis: From Beginner to Pro]()
+[ArcGis: From Beginner to Pro](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/ArcGis%20-%20From%20Beginner%20to%20Pro.pdf) (January 2024)(Udemy)
 
 [Data Analysis With Python](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Data%20Analysis%20With%20Python%20Certificate.pdf) (October 2023)(freeCodeCamp)
 
