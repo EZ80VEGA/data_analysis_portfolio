@@ -158,7 +158,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 **File:** [Football 24 Player Stats Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Football%2024%20Player%20Stats%20Query.sql)
 
 
-## Resources
+## Courses Taken
 To reinforce that I have taken the time to further my learning. Here are certificates from the courses I have taken.
 
 [Data Analysis With Python](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Data%20Analysis%20With%20Python%20Certificate.pdf) (October 2023)(freeCodeCamp)
