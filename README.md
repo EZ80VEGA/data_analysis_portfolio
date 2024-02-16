@@ -15,7 +15,7 @@ Thanks for checking it out!
 - [About](#about)
 - [Contents](#contents)
 - [Projects](#projects)
-- [Certificates](#certificates)
+- [Courses](#courses)
 - [Contact](#contact)
 
 ## Projects
@@ -127,7 +127,7 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 - Pandas Dataframes
 - Data Cleaning
 
-**File:** [Finances Excel Update - Shared .ipynb](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/FinancesExcelUpdate-Shared.ipynb)
+**File:** [Finances Excel Update](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/FinancesExcelUpdate-Shared.ipynb)
 
 ### Downloads Folder File Organizer
 
@@ -136,6 +136,25 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 **Solution:** Utilized Python to create sub-Downloads folders based on the file type: pdf, xlsm, png, etc. This keeps my downloaded files organized and easy to locate.
 
 **File:**
+
+### Web Scraping - Top 100 Companies
+
+**Issue:** I want to use a table from an internet webpage to do some analysis, but I can't just download the data. 
+
+**Solution:** Use python to extract the data I want into a csv file I can use and share if I wanted to. 
+
+**Topics:**
+- Web Scraping 
+- Pandas Dataframes
+- Data Cleaning
+- Data Frame to CSV file conversion
+
+
+**Files:** 
+
+[Web Scraping - Top 100 Companies](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Web%20Scraping%20Project%20-%20Top%20100%20Companies.ipynb)
+
+[Top 100 Companies CSV](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Top%20100%20Companies.csv) 
 
 
 ## SQL
@@ -158,8 +177,8 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 **File:** [Football 24 Player Stats Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Football%2024%20Player%20Stats%20Query.sql)
 
 
-## Courses Taken
-To reinforce that I have taken the time to further my learning. Here are certificates from the courses I have taken.
+## Courses
+These are some courses I have taken to up my learning. 
 
 [ArcGis: From Beginner to Pro](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/ArcGis%20-%20From%20Beginner%20to%20Pro.pdf) (January 2024)(Udemy)
 
