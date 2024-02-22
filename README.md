@@ -21,19 +21,7 @@ Thanks for checking it out!
 ## Projects
 In order to exemplify what I have learned, I try to apply those newly learned skills.
 
-## ArcGis
 
-**Files:** 
-
-[Santa Ana Maya - Michoacan Study Area.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20-%20Michoacan%20Study%20Area.pdf)
-
-[Santa Ana Maya Trace Layout wPopulation.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout%20wPopulation.pdf)
-
-[Santa Ana Maya Trace Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Santa%20Ana%20Maya%20Trace%20Layout.pdf)
-
-[Michoacan - Mexico Study Area Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Michoacan%20-%20Mexico%20Study%20Area%20Layout.pdf)
-
-[Mexico With States Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Mexico%20With%20States%20Layout.pdf)
 
 ## CSS & HTML
 
@@ -66,19 +54,6 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 ## Excel
 
-### Personal Budget Book
-
-**Issue:** I am aware I am over spending my income. What can I do monitor my spending.
-
-**Solution:** Create a budget book where I can input my spending data each month and break it down into categories.
-
-**Topics:**
-- Custom Data Entry Form
-- Chart
-- VBA
-
-**File:** [Budget Book.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Budgetbook_2023_Data1.xlsm)
-
 ### Customer Data Order Dashboard
 
 **Issue:** Our company's sales department want to know how frequently each of our customers buy from us. They need to improve their numbers and want to find out if they can reach out to those who less frequently order from us. 
@@ -94,7 +69,9 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 
 **File:** [CustomerOrders-Reworked.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
+
 ## Power BI
+
 ### Sales Dashboard
 
 **Issue:** A local company reached out inquiring about the possibility of creating a dashboard that lets them view and compare sales using their last three years of sales data. They wanted this dashboard to be interactive and allowing them to choose the viewing of data based on the year, city, product and channel of sale. 
@@ -116,26 +93,6 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 [Sales Dashboard Table Relationships](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Sales%20Dashboard%20Table%20Relationships.JPG)
 
 ## Python
-### Automated Personal Financial Transactions Import
-
-**Issue:** I want to automate the process to input data into my finacial dashboard using transaction reports from my banks. 
-
-**Solution:** Use python to create a clean process where the raw data from my trnsaction reports are all imported into a single data sheet within my excel budget book. 
-
-**Topics:**
-- Import CSV files into single Excel Workbook sheet 
-- Pandas Dataframes
-- Data Cleaning
-
-**File:** [Finances Excel Update](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/FinancesExcelUpdate-Shared.ipynb)
-
-### Downloads Folder File Organizer
-
-**Issue:** My PC's Downloads folder is full of different files and it's a mess to look at before deciding to keep or delete them.
-
-**Solution:** Utilized Python to create sub-Downloads folders based on the file type: pdf, xlsm, png, etc. This keeps my downloaded files organized and easy to locate.
-
-**File:**
 
 ### Web Scraping - Top 100 Companies
 
@@ -158,11 +115,6 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 
 ## SQL
-### Instagram Clone
-
-**Description:** This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
-
-**Code:** [Instagram Clone Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Instagram%20Clone%20Query.sql)
 
 ### Laguna Seca Lap Time Records 
 
@@ -170,11 +122,6 @@ In order to exemplify what I have learned, I try to apply those newly learned sk
 
 **File:** [Laguna Seca Lap Time Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Laguna%20Seca%20Lap%20Time%20Query.sql)
 
-### Football 24 Player Stats
-
-**Description:** Growing up with the FIFA franchise and then hearing about the change in the name interested me in finding out how some of the yet standing older players stand next to the next generation of football players. 
-
-**File:** [Football 24 Player Stats Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Football%2024%20Player%20Stats%20Query.sql)
 
 
 ## Courses
