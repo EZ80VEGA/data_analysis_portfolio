@@ -19,37 +19,7 @@ Thanks for checking it out!
 - [Contact](#contact)
 
 ## Projects
-In order to exemplify what I have learned, I try to apply those newly learned skills.
-
-
-
-## CSS & HTML
-
-### Personal Website
-
-**Issue:** I already owned a domain but never put it to use. I tried using WordPress to build my website but I could not find any website templates I liked.
-
-**Solution:** I decided to learn the basics of CSS & HTML to build my custom website from scratch with the intent to showcasse my new skill and the rest of my technical skills through my portfolio.
-
-**Topics:**
-- HREF Links
-- Buttons
-- Keyframes
-- NavBar
-- Form
-
-
-**Files:** 
-
-[Style Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/style.css) 
-
-[Index Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/index.html)
-
-[Portfolio Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/portfolio.html)
-
-[Contact Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/contact.html)
-
-[Java Script](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/script.js)
+Here you will find the most current projects that exemplify my skills.
 
 
 ## Excel
