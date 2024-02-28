@@ -19,16 +19,16 @@ Thanks for checking it out!
 - [Contact](#contact)
 
 ## Projects
-Here you will find the most current projects that exemplify my skills.
+Below you will find current projects I have worked on.
 
 
 ## Excel
 
 ### Customer Data Order Dashboard
 
-**Issue:** Our company's sales department want to know how frequently each of our customers buy from us. They need to improve their numbers and want to find out if they can reach out to those who less frequently order from us. 
+**Issue:** Our company's sales department wants to know the frequency of when our customers place orders. The goal is to find those that are less frequent to place orders and make an attempt to strengthen the relationship. 
 
-**Solution:** Build a customer orders dashboard where we can view each individual customers previous orders and can be shared among each of the teams members without any issue.
+**Solution:** Build an interactive customer orders dashboard where we can view each individual customers previous orders and can be shared among each of the teams members without any issue.
 
 **Topics:**
 - VBA
@@ -38,15 +38,15 @@ Here you will find the most current projects that exemplify my skills.
 - Pivot Chart
 
 
-**File:** [CustomerOrders-Reworked.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
+**File:** [Customer Data Order Dashboard](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
 
 ## Power BI
 
 ### Sales Dashboard
 
-**Issue:** A local company reached out inquiring about the possibility of creating a dashboard that lets them view and compare sales using their last three years of sales data. They wanted this dashboard to be interactive and allowing them to choose the viewing of data based on the year, city, product and channel of sale. 
+**Issue:** A local company inquired about creating a dashboard that lets them view and compare sales using their last three years of sales data. The requirements were to build an interactive dashboard using the year, city, product and channel of sale. 
 
-**Solution:** Create a dashboard which includes the selection of the year, city, product & channel. Based on the selection they will be able to view their sales, profit, profit margin and the number of products they have sold. While being able to see the differences in changes for the type of products they have sold and the month. Knowing which locations their top custmers are located will help them prioritize advertising. It is important as well to know which customers they may be having sales issues with and the channel of the sale between Wholesale, Distribut or or Export. 
+**Solution:** Create a dashboard which includes slicers for the year, city, product & channel. Based on the selection they will be able to view their sales, profit, profit margin and the number of products they have sold. While being able to see the differences in changes for the type of products they have sold and the month. Knowing which locations their top custmers are located will help them prioritize advertising. It is important as well to know which customers they may be having sales issues with and the channel of the sale between Wholesale, Distribut or or Export. 
 
 **Topics:**
 - Custom Columns
@@ -88,9 +88,17 @@ Here you will find the most current projects that exemplify my skills.
 
 ### Laguna Seca Lap Time Records 
 
-**Description:** Having this iconic racetrack close to home interested me in trying to find out what type of vehicles set records throughout the years. 
+**Issue:** Laguna Seca is my local reacetrack back home and I don't know much about the records set.
 
-**File:** [Laguna Seca Lap Time Query.sql](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Laguna%20Seca%20Lap%20Time%20Query.sql)
+**Solution:** Use ChatGPT to help create valid questions that I can answer using mysql and learn more about what records have been held at Laguna Seca.
+
+**Topics:**
+- Group By
+- Order By
+- Limit
+- Correlation
+
+**File:** [Laguna Seca Lap Time Query](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Laguna%20Seca%20Lap%20Time%20Query.sql)
 
 
 
