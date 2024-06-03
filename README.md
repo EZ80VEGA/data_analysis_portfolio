@@ -26,9 +26,9 @@ Below you will find current projects I have worked on.
 
 ### Coffee Sales Orders Dashboard
 
-**Issue:** Our company's sales department wants to know the frequency of when our customers place orders. The goal is to find those that are less frequent to place orders and make an attempt to strengthen the relationship. 
+**Issue:** Our company's sales department wants to track the sales of types of coffee worldwide. The goal is to find those that are less frequent to place orders and make an attempt to strengthen the relationship. 
 
-**Solution:** Build an interactive customer orders dashboard where we can view each individual customers previous orders and can be shared among each of the teams members without any issue.
+**Solution:** Build an interactive sales orders dashboard where we can view coffee types sales, size and by country.
 
 **Topics:**
 - Xlookup Function
@@ -37,7 +37,7 @@ Below you will find current projects I have worked on.
 - Pivot Chart
 
 
-**File:** [Coffee Sales Orders Dashboard]()
+**File:** [Coffee Sales Orders Dashboard](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Coffee%20Orders%20Working%20File.xlsx)
 
 ## Power BI
 
