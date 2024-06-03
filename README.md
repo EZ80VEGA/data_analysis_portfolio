@@ -24,21 +24,20 @@ Below you will find current projects I have worked on.
 
 ## Excel
 
-### Customer Data Order Dashboard
+### Coffee Sales Orders Dashboard
 
 **Issue:** Our company's sales department wants to know the frequency of when our customers place orders. The goal is to find those that are less frequent to place orders and make an attempt to strengthen the relationship. 
 
 **Solution:** Build an interactive customer orders dashboard where we can view each individual customers previous orders and can be shared among each of the teams members without any issue.
 
 **Topics:**
-- VBA
-- Index Function
-- Vlookup Function
+- Xlookup Function
+- Match Index Function
 - Pivot Table
 - Pivot Chart
 
 
-**File:** [Customer Data Order Dashboard](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
+**File:** [Coffee Sales Orders Dashboard]()
 
 ## Power BI
 
